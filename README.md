@@ -1,1 +1,1 @@
-"# csharp-basics-of-programming" 
+Основы Программироания, СП10 
